@@ -23,7 +23,7 @@ A simple console-based shopping cart program written in C++. Users can browse pr
 2. Open the project folder
 3. Compile the main.cpp file:
    ```bash
-   g++ main.cpp -o Shop_Sytem_CPP
+   g++ shopsystem.cpp -o Shop_Sytem_CPP
    ```
 4. Run the executable:
    ```bash
