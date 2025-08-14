@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <algorithm>
 using namespace std;
-// refer to shop.txt for project details
+
 void enter();
 void menu();
 // void womens();
@@ -589,5 +589,6 @@ void cart()
 	}
 s
 }
+
 
 
